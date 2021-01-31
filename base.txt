@@ -1,1 +1,8 @@
-stato zero
+Basic info about this APP
+
+#Description
+Here a short description for this repository/project based on STRAPI
+
+#Admin Credentials
+Usr: xx@xx.to
+Pwd: Pwd_1234
